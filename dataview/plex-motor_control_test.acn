@@ -1,0 +1,3 @@
+ESROCOS-plex-motor-control-test DEFINITIONS ::= BEGIN
+    MyDummyInteger[]
+END

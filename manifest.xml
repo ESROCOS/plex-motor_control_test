@@ -1,0 +1,1 @@
+<package><depend package="types/base" /><depend package="types/controldev" /><depend package="drivers/taste/controldev" /><depend package="gr740/candriver" /></package>

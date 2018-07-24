@@ -1,0 +1,7 @@
+ASNACN_DIR: dataview/
+PROJECT_NAME: plex-motor_control_test
+deps:
+- types/base: ''
+- types/controldev: ''
+- drivers/taste/controldev: ''
+- gr740/candriver: ''
